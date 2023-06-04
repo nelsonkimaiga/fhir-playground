@@ -1,0 +1,5 @@
+spring:
+  profiles: dev
+fhir:
+  base-url: http://hapi.fhir.org/baseR4
+  version: 4.0.0
